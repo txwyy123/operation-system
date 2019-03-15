@@ -12,4 +12,5 @@ implement the backtrace system call, which can print all values of registers and
 
 ### homework4
 implement thread apis, including thread_create, thread_join and thread_exit, which are similar to the implementation of process apis
+
 implement spinlock, mutex and conditional variables for thread synchronization
